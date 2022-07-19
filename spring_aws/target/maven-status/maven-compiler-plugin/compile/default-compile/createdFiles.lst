@@ -1,0 +1,3 @@
+com\spring\aws\SpringAwsApplication.class
+com\spring\aws\GreetController.class
+com\spring\aws\ServletInitializer.class
